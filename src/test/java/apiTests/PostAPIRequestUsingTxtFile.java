@@ -1,4 +1,5 @@
-package apiTests.utils;
+package apiTests;
+import apiTests.utils.FileNameConstants;
 import com.jayway.jsonpath.JsonPath;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
